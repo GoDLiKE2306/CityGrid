@@ -1,8 +1,8 @@
-# NammaGrid
+# CityGrid
 
 **Motto:** Optimize, don't cut off.
 
-NammaGrid is a Streamlit Intro to AI project that demonstrates a hyperlocal electricity optimisation agent for Malleshwaram, Bengaluru. It estimates local demand, scores peak-risk, identifies transformer stress, ranks safe optimisation actions, and explains why the agent chose its recommendation.
+NammaGrid is a Streamlit Intro to AI project that demonstrates a hyperlocal electricity optimisation agent. It estimates local demand, scores peak-risk, identifies transformer stress, ranks safe optimisation actions, and explains why the agent chose its recommendation.
 
 ## Problem Statement
 
@@ -37,7 +37,7 @@ The app provides scenario presets and manual controls for zone, hour, season, co
 ## Project Structure
 
 ```text
-NammaGrid/
+CityGrid/
   app/
     main.py
     data_model.py
